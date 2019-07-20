@@ -50,5 +50,39 @@ trabajo final
 <text transform="matrix(1 0 0 1 75.0322 179.8643)" class="st4 st5 st6">E</text>
 </svg>
   <body>
-  
+  <h1> Hoja de Vida </h1>
+<h2>Enzzo Vargiu</h2>
+<h3>15/08/1992</h3><br>
+<li><a href="educacion/educ.html">educacion</a></li>
+<li><a href="experiencia/exp.html">experiencia</a></li>
+<img src="imagenes/imagen1.png" alt="foto de CV" width="400px" height="auto">
+<p>
+<h1>Habilidades</h1><br>
+Organización de eventos <br>
+Liderazgo <br>
+Medios sociales <br>
+Planificación estratégica <br>
+Gestión de eventos <br>
+Investigación <br>
+Gestión de inventarios <br>
+Organizaciones sin ánimo de lucro <br>
+<h1>Herramientas y tecnologías</h1> <br>
+Microsoft Office <br>
+Microsoft Excel <br>
+Microsoft Word <br>
+Microsoft PowerPoint <br>
+HTML5 <br>
+<h1>Aptitudes interpersonales</h1><br>
+Aptitudes de organización <br>
+Trabajo en equipo <br>
+Liderazgo de equipos <br>
+Servicio de atención al cliente <br>
+Dirección <br>
+Discursos en público <br>
+Gestión del tiempo <br>
+Formación <br>
+<h1>Aptitudes y validaciones</h1>
+<li>Español (nativo)</li><br>
+<li>Ingles (B1)</li><br>
   </body>
+</html>
